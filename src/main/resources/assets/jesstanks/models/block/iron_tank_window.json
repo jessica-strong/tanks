@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "jesstanks:block/iron_tank_window"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "jesstanks:block/iron_tank_controller"
+    },
+    "facing=east": {
+      "model": "jesstanks:block/iron_tank_controller",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "jesstanks:block/iron_tank_controller",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jesstanks:block/iron_tank_controller",
+      "y": 270
+    }
+  }
+}
